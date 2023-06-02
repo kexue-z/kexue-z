@@ -4,11 +4,11 @@
 
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=kexue-z
+  <img src="https://github-readme-stats.vercel.app/api?username=kexue-z">
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kexue-z&layout=compact&hide_border=true"  alt="Akirami's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kexue-z&layout=compact&hide_border=true">
 </p>
 
 
