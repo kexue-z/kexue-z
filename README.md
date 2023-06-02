@@ -4,7 +4,7 @@
 
 
 <p align="center">
-[![kexue-z's GitHub stats](https://github-readme-stats.vercel.app/api?username=kexue-z)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=kexue-z
 </p>
   
 <p align="center">
